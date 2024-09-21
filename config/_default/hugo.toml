@@ -1,0 +1,126 @@
+baseurl = "/"
+languageCode = "en-us"
+theme = "terminal"
+
+[markup.goldmark.renderer]
+unsafe = true
+
+[pagination]
+paginate = 5
+
+[params]
+# dir name of your main content (default is `content/posts`).
+# the list of set content will show up on your index page (baseurl).
+contentTypeName = "posts"
+
+# if you set this to 0, only submenu trigger will be visible
+showMenuItems = 2
+
+# show selector to switch language
+showLanguageSelector = true
+
+# set theme to full screen width
+fullWidthTheme = false
+
+# center theme with default width
+centerTheme = true
+
+# if your resource directory contains an image called `cover.(jpg|png|webp)`,
+# then the file will be used as a cover automatically.
+# With this option you don't have to put the `cover` param in a front-matter.
+autoCover = true
+
+# set post to show the last updated
+# If you use git, you can set `enableGitInfo` to `true` and then post will automatically get the last updated
+showLastUpdated = true
+enableGitInfo = true
+
+# whether to show a page's estimated reading time
+# readingTime = false # default
+readingTime = true
+
+# whether to show a table of contents
+# can be overridden in a page's front-matter
+# Toc = false # default
+
+# set title for the table of contents
+# can be overridden in a page's front-matter
+# TocTitle = "Table of Contents" # default
+
+author = "Lurgrid"
+owner = "Lurgrid"
+copyright = "Lurgrid"
+
+description = "A blog about tech, programming, and more."
+
+googleAnalytics = "UA-XXXXXXXXX-X"
+showSearch = true
+enableRobotsTXT = true
+enableSitemap = true
+
+[params.logo]
+logoText = "SAGBOT"
+logoHomeLink = "/"
+
+[languages.en]
+languageName = "English"
+title = "SAGBOT.com"
+weight = 1
+
+[languages.en.params]
+subtitle = "A blog about tech, programming, and more."
+menuMore = "Show more"
+readMore = "Read more"
+readOtherPosts = "Read other posts"
+newerPosts = "Newer posts"
+olderPosts = "Older posts"
+missingContentMessage = "Page not found..."
+missingBackButtonLabel = "Back to home page"
+minuteReadingTime = "min read"
+words = "words"
+updatedDatePrefix = "Updated"
+
+[[languages.en.menu.main]]
+identifier = "about"
+name = "About"
+url = "/about"
+weight = 1
+
+[[languages.en.menu.main]]
+identifier = "posts"
+name = "Posts"
+url = "/posts"
+weight = 2
+
+[languages.fr]
+languageName = "Français"
+title = "SAGBOT.com"
+weight = 2
+
+[languages.fr.params]
+subtitle = "Un blog sur la technologie, la programmation et plus encore."
+menuMore = "Voir plus"
+readMore = "Lire plus"
+readOtherPosts = "Lire une autre publication"
+newerPosts = "Nouvelles publication"
+olderPosts = "Anciennes publication"
+missingContentMessage = "Page non trouvé..."
+missingBackButtonLabel = "Retour à la page principale"
+minuteReadingTime = "min de lecture"
+words = "mots"
+updatedDatePrefix = "Mis à jour"
+
+[[languages.fr.menu.main]]
+identifier = "about"
+name = "À propos"
+url = "/fr/about"
+weight = 1
+
+[[languages.fr.menu.main]]
+identifier = "posts"
+name = "Publications"
+url = "/fr/posts"
+weight = 2
+
+[module]
+replacements = "github.com/panr/hugo-theme-terminal/v4 -> themes/terminal"
