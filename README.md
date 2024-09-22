@@ -34,6 +34,6 @@ hugo -d /path/to/destination/
 
 ## License
 
-Copyright © 2024-2024 E. HADDAG (@lurgrid)
+Copyright © 2024-2024 E. HADDAG ([@lurgrid](https://github.com/Lurgrid/))
 
 All this code is licensed under the GNU General Public License v3.0 (GPLv3), see [README](./README) for more information. This project uses the [**Terminal**](https://themes.gohugo.io/themes/hugo-theme-terminal/) theme which is licensed under the MIT license, [see for more information](https://github.com/panr/hugo-theme-terminal/blob/master/LICENSE.md).
