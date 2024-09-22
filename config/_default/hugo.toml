@@ -1,6 +1,7 @@
 baseurl = "/"
 languageCode = "en-us"
 theme = "terminal"
+googleAnalytics = "G-0"
 
 [markup.goldmark.renderer]
 unsafe = true
@@ -53,7 +54,6 @@ copyright = "Lurgrid"
 
 description = "A blog about tech, programming, and more."
 
-googleAnalytics = "UA-XXXXXXXXX-X"
 showSearch = true
 enableRobotsTXT = true
 enableSitemap = true
