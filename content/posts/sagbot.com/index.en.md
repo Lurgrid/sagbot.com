@@ -53,4 +53,4 @@ Now all I have to do is write articles!
 
 ### Thank you
 
-I would like to thank [T. RENAUX VERDIERE](https://renauxv.fr/) and [Mirabelle S. P.](https://github.com/oiimrosabel) for their advice throughout the research and creation of this website. Special thanks to T. RENAUX VERDIERE for proofreading this article and the other pages of the website.
+I would like to thank [*T. RENAUX VERDIERE*](https://renauxv.fr/) and [*Mirabelle S. P.*](https://github.com/oiimrosabel) for their advice throughout the research and creation of this website. Special thanks to *T. RENAUX VERDIERE* and *Jade P.* for proofreading this article and the other pages of the website.
