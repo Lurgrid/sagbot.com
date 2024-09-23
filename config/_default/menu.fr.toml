@@ -1,0 +1,11 @@
+[[main]]
+identifier = "about"
+name = "À propos"
+url = "/fr/about"
+weight = 1
+
+[[main]]
+identifier = "posts"
+name = "Publications"
+url = "/fr/posts"
+weight = 2
