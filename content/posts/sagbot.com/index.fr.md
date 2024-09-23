@@ -9,7 +9,7 @@ cover = "image.png"
 
 ## Histoire de *SAGBOT.com*
 
-*SAGBOT.com* a vu le jour à la fin de l'année 2021. Depuis son lancement, le site a connu de nombreuses évolutions visuelles, chacune marquée par des mises à jour fréquentes. Cependant, un fil conducteur persiste à travers ces changements : le projet n'a jamais été totalement achevé. Souvent, je manquais de motivation pour travailler sur le front-end, n'ayant pas vraiment l'âme d'un artiste, ni la plume d'un écrivant, je ne savais pas quoi écrire pour enrichir le contenu.
+*SAGBOT.com* a vu le jour à la fin de l’année 2021. Depuis son lancement, le site a connu de nombreuses évolutions visuelles, chacune marquée par des mises à jour fréquentes. Cependant, un fil conducteur persiste à travers ces changements : le projet n’a jamais été totalement achevé. Souvent, je manquais de motivation pour travailler sur le front-end, n’ayant pas vraiment l’âme d’un artiste, ni la plume d’un écrivant, je ne savais pas quoi écrire pour enrichir le contenu.
 
 Les anciennes versions étaient faites essentiellement avec **HTML/CSS/PHP/JS** et étaient souvent des sites web monopage (*SPA*). Et comme dit précédemment elles étaient fréquemment vide de contenu, voire contenaient encore des remplisseurs (*placeholder*) et même dans le pire des cas des liens menant à des pages *404*, car n'étant pas encore codé.
 
@@ -23,7 +23,7 @@ La version actuelle n'est plus du tout basé sur les mêmes technologies et n'a 
 
 ### Conception
 
-Avant toute chose, je suis me demander &laquo; Comment, je veux que *SAGBOT.com* soit ? &raquo;. Après réflexion, et même en discutant avec des proches, j'en ai conclu que *SAGBOT.com* devait devenir un blog sur ma passion ; l'informatique, pour être plus en adéquation avec mon projet professionnel qui est de devenir enseignant-chercheur (cf. [À propos](https://www.sagbot.com/fr/about)). Étant donné que dans le monde de la recherche la rédaction d'article est monnaie courante.
+Avant toute chose, je suis me demandé &laquo; Comment, je veux que *SAGBOT.com* soit ? &raquo;. Après réflexion, et même en discutant avec des proches, j'en ai conclu que *SAGBOT.com* devait devenir un blog sur ma passion ; l'informatique, pour être plus en adéquation avec mon projet professionnel qui est de devenir enseignant-chercheur (cf. [À propos](https://www.sagbot.com/fr/about)). Étant donné que dans le monde de la recherche la rédaction d'article est monnaie courante.
 
 Après avoir obtenu le sujet, il fallait le mettre en forme. Tout d'abord, le monopage, c'est fini, par incompatibilité avec l'idée de blog. Il fallait que la rédaction soit simple à mettre en oeuvre. Devoir recoder une page **HTML** pour chaque article, aurait était un frein et le site aurait fini comme les autres, <u>vides</u>. Maitrisant le **LaTeX** et le **Markdown**, connaissant alors la puissance de leurs syntaxes, j'ai donc voulu mettre en place une création d'article à partir de ces langages.
 
@@ -53,4 +53,4 @@ Il ne me reste plus qu'à écrire des articles !
 
 ### Remerciement
 
-Je remercie [T. RENAUX VERDIERE](https://renauxv.fr/) et [Mirabelle S. P.](https://github.com/oiimrosabel) pour les conseils donné tout au long de la recherche et de la création de ce site web. Je remercie plus particulièrement T. RENAUX VERDIERE pour la relecture de cet article et des autres pages du site web.
+Je remercie [*T. RENAUX VERDIERE*](https://renauxv.fr/) et [*Mirabelle S. P.*](https://github.com/oiimrosabel) pour les conseils donné tout au long de la recherche et de la création de ce site web. Je remercie plus particulièrement *T. RENAUX VERDIERE* et *Jade P.* pour la relecture de cet article et des autres pages du site web.
